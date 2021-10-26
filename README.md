@@ -1,1 +1,1 @@
-# EPAM_courses
+# EPAM_course

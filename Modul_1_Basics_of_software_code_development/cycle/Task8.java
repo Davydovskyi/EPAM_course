@@ -33,7 +33,7 @@ public class Task8 {
 
 		StringBuilder resultBuilder = new StringBuilder();
 
-		if (number1 == 0 || number2 == 0 && containsZero(number1, number2)) {
+		if ((number1 == 0 || number2 == 0) && containsZero(number1, number2)) {
 			return resultBuilder.append("0;").toString();
 		}
 

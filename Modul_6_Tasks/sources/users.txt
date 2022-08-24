@@ -1,0 +1,3 @@
+1' 'Anton' 'Davydovskyi' 'Goblin' '2sFaZUVncwtosj+TNNdNjA==.Fcbup6djeJ7kwr3Hdez/HMg==' 'rooney@mail.ru' 'ADMIN
+2' 'Kira' 'Popkina' 'Kira_007' 'WwDXU3Wc0ZTqeXwiuvOapQ==.0/fb6JKVNXxiruc8FD/hwg==' 'fan@gmail.com' 'READER
+3' 'Oko' 'Frodo' 'Sobaka' '2sFa8ZUncwwopb+TNNdNjA==.Fcbup6hfJ7kklewuHdez/HMg==' 'oko.@mail.ru' 'READER
